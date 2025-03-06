@@ -17,20 +17,17 @@ I'm a **Junior Front-End Developer** specializing in building dynamic and high-p
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karimashraf13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="https://www.facebook.com/karim.ashraf.372019?mibextid=LQQJ4d" target="_blank">
+  <a href="https://www.facebook.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  
   <a href="mailto:karimashraf000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  
   <a href="https://drive.google.com/file/d/1zLA_gnwoM_3qSm5VUdmNuwjilfdcR2OH/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
 
