@@ -17,16 +17,22 @@ I'm a **Junior Front-End Developer** specializing in building dynamic and high-p
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/karimashraf13/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <a href="https://www.npmjs.com/~karimprime013" target="_blank">
+    <img src="https://img.shields.io/badge/npm-CB0000?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  </a>
+    <a href="https://stackoverflow.com/users/29969268/karim-prime-ke" target="_blank">
+    <img src="https://img.shields.io/badge/stackoverflow-252627?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow" />
+  </a>
+  <a href="https://www.facebook.com/karim.ashraf.372019?mibextid=LQQJ4d" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:karimashraf000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://drive.google.com/file/d/1zLA_gnwoM_3qSm5VUdmNuwjilfdcR2OH/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1Gt6mHUecJYkowVZ4Rv5-FLaVYTQjwMVH/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
