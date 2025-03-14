@@ -24,7 +24,7 @@ I'm a **Junior Front-End Developer** specializing in building dynamic and high-p
     <img src="https://img.shields.io/badge/npm-CB0000?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   </a>
     <a href="https://stackoverflow.com/users/29969268/karim-prime-ke" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-252627?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow" />
+    <img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow" />
   </a>
   <a href="https://www.facebook.com/karim.ashraf.372019?mibextid=LQQJ4d" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -84,7 +84,7 @@ I'm a **Junior Front-End Developer** specializing in building dynamic and high-p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimprime&show_icons=true&theme=radical" alt="Karim's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=karimprime&show_icons=true&theme=radical" alt="Karim's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimprime&theme=radical" alt="GitHub Streak" />
 </p>
 
